@@ -11,3 +11,7 @@
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
